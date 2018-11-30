@@ -1,10 +1,10 @@
 {
   "name": "videogular2",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1",
   "description": "Videogular is a video application framework for desktop and mobile powered by Angular",
   "repository": {
     "type": "git",
-    "url": "https://github.com/videogular/videogular2"
+    "url": "https://github.com/ocharrier/videogular2"
   },
   "peerDependencies": {
     "@angular/core": "^7.0.3",
@@ -77,20 +77,10 @@
     "angular2",
     "javascript"
   ],
-  "author": "Raúl Jiménez <elecash@gmail.com>",
-  "contributors": [
-    {
-      "name": "Alberto García",
-      "email": "cernhelm@gmail.com"
-    },
-    {
-      "name": "Joan Llenas Masó",
-      "email": "joan.llenas.maso@gmail.com"
-    }
-  ],
+  "author": "bobo <ocharrier@hexaglobe.com",  
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/videogular/videogular2/issues"
+    "url": "https://github.com/ocharrier/videogular2/issues"
   },
   "config": {
     "commitizen": {
